@@ -1,0 +1,53 @@
+
+table{
+border-spacing: 0px;
+margin: 0 auto;
+margin-left: 350px;
+margin-right: 350px;
+margin-top: 60px;
+background-color:rgb(247, 246, 245);
+color:rgb(48, 123, 129);
+font-family:Arial, Helvetica, sans-serif;
+}
+
+caption{
+border-radius: 5px 5px 0 0;
+background-color: rgb(48, 123, 129);
+padding: 30px 20px;
+color:white;
+font-weight: bold;
+font-size: 25px;
+}
+
+img{
+width:100px;
+height:100px;
+border-radius: 50%;
+
+}
+
+th, td {
+padding: 10px 20px;
+
+}
+
+thead, .green {
+background-color: rgb(217, 241, 243);
+}
+
+td{
+font-weight: bolder;
+}
+
+th{
+font-weight: lighter;
+}
+
+.last{
+border-radius: 0 0 5px 0;   
+}
+.first{
+border-radius: 0 0 0 5px;   
+}
+            
+
